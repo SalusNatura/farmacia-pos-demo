@@ -1,1 +1,0 @@
-import{r as n,ba as s,bb as a}from"./index-CDaMzyHT.js";function l(){var e;const o=n.useContext(s),t=((e=o==null?void 0:o.userProfile)==null?void 0:e.role)??null;return{role:t,can:r=>a(t,r)}}export{l as u};

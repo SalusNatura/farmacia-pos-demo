@@ -12,3 +12,9 @@ Notas:
 - **No se cobra nada.** El pago de la tienda se simula.
 - Los datos viven en el navegador: al recargar vuelven a los datos de ejemplo.
 - Lo que llama al servidor (Mercado Pago, SII, publicar la tienda) no funciona aquí.
+
+## Derechos
+
+Todos los derechos reservados. © 2026 VALTRIX SPA. El código, el diseño y los textos de esta
+demostración no pueden copiarse, reutilizarse, modificarse ni distribuirse sin autorización escrita
+de su titular.
