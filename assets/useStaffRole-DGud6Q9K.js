@@ -1,0 +1,1 @@
+import{r as n,bb as s,bc as a}from"./index-JX7fJf4G.js";function c(){var e;const o=n.useContext(s),t=((e=o==null?void 0:o.userProfile)==null?void 0:e.role)??null;return{role:t,can:r=>a(t,r)}}export{c as u};
