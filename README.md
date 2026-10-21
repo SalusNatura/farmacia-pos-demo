@@ -6,6 +6,7 @@ privacidad, informes) con datos de ejemplo, más la tienda en internet de la far
 - **Aplicación:** https://salusnatura.github.io/farmacia-pos-demo/
 - **Tienda en internet:** https://salusnatura.github.io/farmacia-pos-demo/#tienda
 - **Otros roles:** añade `?rol=vendedor` o `?rol=quimico` a la dirección.
+- **Descuentos en caja:** como cajero (`?rol=vendedor`), bajar un precio pide la clave de Gerencia. En la demo es `demo2026`.
 
 Notas:
 - Todos los productos, precios, ventas y la farmacia son **de ejemplo**.
