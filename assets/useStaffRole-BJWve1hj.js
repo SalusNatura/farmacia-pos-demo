@@ -1,1 +1,0 @@
-import{r as n,bg as s,aD as a}from"./index-BEFOIAZ9.js";function l(){var e;const o=n.useContext(s),t=((e=o==null?void 0:o.userProfile)==null?void 0:e.role)??null;return{role:t,can:r=>a(t,r)}}export{l as u};

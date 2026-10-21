@@ -7,6 +7,7 @@ privacidad, informes) con datos de ejemplo, más la tienda en internet de la far
 - **Tienda en internet:** https://salusnatura.github.io/farmacia-pos-demo/#tienda
 - **Otros roles:** añade `?rol=vendedor` o `?rol=quimico` a la dirección.
 - **Descuentos en caja:** como cajero (`?rol=vendedor`), bajar un precio pide la clave de Gerencia. En la demo es `demo2026`.
+- **Meta diaria de ventas:** la caja muestra un semáforo con lo vendido hoy frente a la meta ($900.000 de lunes a viernes; $600.000 sábados, domingos y festivos). Gerencia lo ajusta en Configuración → Meta de ventas.
 
 Notas:
 - Todos los productos, precios, ventas y la farmacia son **de ejemplo**.

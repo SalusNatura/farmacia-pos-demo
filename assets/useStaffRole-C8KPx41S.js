@@ -1,0 +1,1 @@
+import{r as n,bh as s,aE as a}from"./index-B3zlweio.js";function l(){var e;const o=n.useContext(s),t=((e=o==null?void 0:o.userProfile)==null?void 0:e.role)??null;return{role:t,can:r=>a(t,r)}}export{l as u};
